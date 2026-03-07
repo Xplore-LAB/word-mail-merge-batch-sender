@@ -1,0 +1,9 @@
+Placeholder only.
+Replace this file with your real Excel sample data file: sample_data.xlsx
+Recommended columns:
+- Email_Addresses
+- Attachment
+- Parent_Name
+- Student_Name
+- Homework_Task
+- Deadline
