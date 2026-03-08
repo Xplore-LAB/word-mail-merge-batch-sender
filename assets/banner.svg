@@ -1,0 +1,51 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="82" y1="72" x2="1184" y2="596" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.55" stop-color="#14376A"/>
+      <stop offset="1" stop-color="#0B5FFF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="284" y1="178" x2="935" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" rx="40" fill="url(#bg)"/>
+  <circle cx="202" cy="122" r="112" fill="#34D399" fill-opacity="0.14"/>
+  <circle cx="1088" cy="114" r="126" fill="#60A5FA" fill-opacity="0.18"/>
+  <rect x="88" y="94" width="1104" height="452" rx="32" fill="#081221" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <rect x="134" y="136" width="90" height="112" rx="20" fill="white" fill-opacity="0.95"/>
+  <rect x="152" y="162" width="54" height="8" rx="4" fill="#94A3B8"/>
+  <rect x="152" y="186" width="42" height="8" rx="4" fill="#94A3B8"/>
+  <rect x="152" y="210" width="48" height="8" rx="4" fill="#94A3B8"/>
+  <path d="M226 162H294V182H260V268H226V162Z" fill="url(#accent)"/>
+  <path d="M260 242L306 196V224H330V260H306V288L260 242Z" fill="white"/>
+
+  <text x="346" y="176" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">Word Mail Merge Batch Sender</text>
+  <text x="346" y="220" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="24">Add per-row attachments to Word Mail Merge emails with Outlook and Excel.</text>
+
+  <rect x="136" y="302" width="208" height="68" rx="20" fill="#0C1B33" stroke="#FDE68A" stroke-opacity="0.75"/>
+  <text x="184" y="344" fill="#FFF7D6" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Excel Data</text>
+  <text x="172" y="400" fill="#C7D2FE" font-family="Arial, Helvetica, sans-serif" font-size="18">Recipient + attachment paths</text>
+
+  <rect x="448" y="272" width="382" height="126" rx="28" fill="#08192E" stroke="url(#accent)" stroke-width="2"/>
+  <text x="502" y="324" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Word + VBA + Outlook</text>
+  <text x="502" y="362" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="20">Mail merge body, account selection, per-row attachments, draft or send</text>
+
+  <rect x="934" y="302" width="208" height="68" rx="20" fill="#0C1B33" stroke="#34D399" stroke-opacity="0.75"/>
+  <text x="986" y="344" fill="#E6FFFB" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Outlook Mail</text>
+  <text x="958" y="400" fill="#C7D2FE" font-family="Arial, Helvetica, sans-serif" font-size="18">Draft or direct send</text>
+
+  <path d="M346 336H426" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M404 318L444 336L404 354" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M836 336H916" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M894 318L934 336L894 354" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="138" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">Windows + Office</text>
+  <text x="336" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">VBA</text>
+  <text x="420" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">Outlook</text>
+  <text x="538" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">Word Mail Merge</text>
+  <text x="760" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">Attachment mapping</text>
+  <text x="1020" y="492" fill="#D1FAE5" font-family="Arial, Helvetica, sans-serif" font-size="18">Office automation</text>
+</svg>
