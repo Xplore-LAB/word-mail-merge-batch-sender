@@ -106,3 +106,7 @@ word-mail-merge-batch-sender
 ## License
 
 MIT
+
+## DSH Edition
+
+This project has a successor: [dsh-plugin-office](https://github.com/Xplore-LAB/dsh-plugin-office) — the same mail-merge capability (plus Word generation and spreadsheet pipelines) rebuilt as a native plugin for DeepSeek Harness, cross-platform, no Outlook COM required.
